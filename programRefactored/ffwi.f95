@@ -1,7 +1,3 @@
-! Name:                    Remus Calugarescu
-! Example Program Call:    gfortran -Wall FFWIndecies.f95 ffwi.f95 > a.out && ./a.out
-! Notes:                   Program must be compiled with ffwi.f95 and FFWIndecies.f95 for it to run
-
 ! Program no.: F-95
 ! Fortran 95 program to calculate Canadian forest
 ! Fire weather index for a dec pdp 11 at P.F.E.S.
